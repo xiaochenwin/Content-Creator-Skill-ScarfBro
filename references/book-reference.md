@@ -554,7 +554,7 @@ async function main() {
     const sampleBook = {
       title: 'AI 时代的创作者手册',
       subtitle: '如何用人工智能放大你的创意能力',
-      author: 'Content Creator Suite',
+      author: 'Content-Creator-Skill-ScarfBro',
       conclusion: 'AI 不会取代创作者，但会用 AI 的创作者会取代不用 AI 的创作者。现在就是开始的最好时机。',
       chapters: [
         {

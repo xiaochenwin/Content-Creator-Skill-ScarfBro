@@ -27,7 +27,7 @@ mkdir -p ~/.claude/skills/content-creator-skill-scarfbro
 cp -r Content-Creator-Skill-ScarfBro/* ~/.claude/skills/content-creator-skill-scarfbro/
 ```
 
-安装后，在 Claude Code 中直接输入 `/content-creator-suite` 即可使用。
+安装后，在 Claude Code 中直接输入 `/content-creator-skill-scarfbro` 即可使用。
 
 ### 方式二：复制 SKILL.md
 
