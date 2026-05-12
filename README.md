@@ -20,11 +20,11 @@
 
 ```bash
 # 克隆到 skills 目录
-git clone https://github.com/your-repo/content-creator-suite.git ~/.claude/skills/content-creator-suite
+git clone git@github.com:xiaochenwin/Content-Creator-Skill-ScarfBro.git ~/.claude/skills/content-creator-skill-scarfbro
 
 # 或手动复制
-mkdir -p ~/.claude/skills/content-creator-suite
-cp -r content-creator-suite/* ~/.claude/skills/content-creator-suite/
+mkdir -p ~/.claude/skills/content-creator-skill-scarfbro
+cp -r Content-Creator-Skill-ScarfBro/* ~/.claude/skills/content-creator-skill-scarfbro/
 ```
 
 安装后，在 Claude Code 中直接输入 `/content-creator-suite` 即可使用。
@@ -72,11 +72,11 @@ AI：[规划书籍结构] → [用户确认大纲] → [逐章撰写] → [生�
 ## 目录结构
 
 ```
-content-creator-suite/
-├── SKILL.md                          # 技能主文件（核心指令）
+Content-Creator-Skill-ScarfBro/
+├── SKILL.md                          # 技能主文件(核心指令)
 ├── README.md                          # 使用说明
 │
-├── references/                        # 参考文档（按需加载）
+├── references/                        # 参考文档(按需加载)
 │   ├── slides-reference.md            # 演示文稿生成参考
 │   ├── interview-reference.md         # 访谈音频生成参考
 │   ├── cover-reference.md             # 封面设计参考
