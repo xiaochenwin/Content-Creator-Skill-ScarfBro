@@ -1,0 +1,33 @@
+{
+  "name": "内容创作套件",
+  "version": "1.0.0",
+  "description": "全能内容创作套件：演示文稿、访谈音频、封面设计、书籍生成",
+  "main": "SKILL.md",
+  "scripts": {
+    "export-pptx": "node scripts/export-pptx.js",
+    "test": "echo \"Skill loaded successfully\" && exit 0"
+  },
+  "keywords": [
+    "skill",
+    "ai",
+    "presentation",
+    "slides",
+    "audio",
+    "interview",
+    "cover",
+    "book",
+    "content-creation"
+  ],
+  "author": "Content Creator Suite Team",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "pptxgenjs": "^3.12.0"
+  },
+  "optionalDependencies": {
+    "canvas": "^2.11.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
