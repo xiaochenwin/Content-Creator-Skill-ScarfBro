@@ -1,12 +1,12 @@
 ---
 name: "content-creator-skill-scarfbro"
-description: "全能内容创作套件：一站式解决演示文稿、访谈音频、封面图、书籍生成。输入音频/演讲稿/文档，即可生成精美的HTML演示、访谈对话音频、多尺寸封面图、以及10万字出版级书籍。"
+description: "围巾哥全能内容创作套件技能：一站式解决演示文稿、访谈音频、封面图、书籍生成。输入音频/演讲稿/文档，即可生成精美的HTML演示、访谈对话音频、多尺寸封面图、以及10万字出版级书籍。"
 trigger: "内容创作、演讲稿转PPT、访谈音频、封面设计、书籍撰写、Audio/PPT/封面/书籍生成"
 version: "1.0.0"
 author: "围巾哥萧尘"
 ---
 
-# Content-Creator-Skill-ScarfBro — 全能内容创作套件
+# Content-Creator-Skill-ScarfBro — 围巾哥全能内容创作套件技能
 
 > **核心理念**：让创作者专注于内容本身，把重复性工作交给 AI。
 
